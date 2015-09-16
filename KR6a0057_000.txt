@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 漏分布經
+#+DATE: 2015-08-30 19:29:53.698753
+#+PROPERTY: JUAN 0
