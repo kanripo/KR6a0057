@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:53.509750
+#+DATE: 2015-08-30 19:29:54.511010
 #+TITLE: 漏分布經
 #+PROPERTY: CBETA_ID T01n0057
 #+PROPERTY: ID KR6a0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 057
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6a0057_T_000-0851b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0057_T_001-0851b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.57[No.26(111)]¶
-
- 佛說漏分布經(出《中阿含》令劫意)¶
+No. 57 [No. 26(111)]¶
+佛說漏分布經(出《中阿含》令劫意)¶
 ¶
 後漢三藏安世高譯
 <pb:KR6a0057_T_001-0851c>¶
@@ -91,7 +90,7 @@ No.57[No.26(111)]¶
 苦痛，三為亦不樂亦不苦痛；如是為知痛。¶
 
 「何等為當知痛從本有？謂本思望；如是為知¶
-痛從本有。¶
+痛從本為。¶
 
 「何等為當知從痛受殃？謂有所思，更是為苦；¶
 如是為知從痛受殃。¶
