@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:53.914905
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:29
 #+TITLE: 漏分布經
 #+PROPERTY: CBETA_ID T01n0057
 #+PROPERTY: ID KR6a0057
